@@ -1,0 +1,6 @@
+{
+  "name": "Mô phỏng Đồ thị Euler và Hamilton",
+  "description": "Ứng dụng tương tác mô phỏng thuật toán đồ thị Euler (Hierholzer) và Hamilton (Quay lui Backtracking) cho Toán rời rạc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
